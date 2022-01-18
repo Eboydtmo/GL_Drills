@@ -1,0 +1,10 @@
+Sprint Confidential and Privileged,,,,,,,,,PeopleSoft,,,,,,,Run Date:,27-DEC-2021
+,,,,,,,,Journal to Feeder System Drill Back,,,,,,,,Run Time:,13:31:32
+ReportID:,Z_GL0004
+
+Journal Date : ,="01-JAN-2021 to 31-DEC-2021"
+Ledger : ,ACTUALS
+Account : ,="206021"
+Fiscal Year,Accounting Period,Journal ID,Trans Ref Num,Reversal Code,Source,Journal Date,Unpost Sequence No.,Business Unit,Account,Region,Cost Center,Product,Segment,Affiliate,Journal Description,Journal Line Description,Journal Line No.,Journal Line Ref,Journal Status,Journal Amount,Amount From Source,Voucher ID,Voucher Line No.,Distrib Line No.,Invoice ID,Invoice Date,Ship Date,Shipto ID,Payment Type,Payment ID,Vendor ID,Vendor Name,PO ID,Item ID,Expense Type,Expense Doc ID,Expense Doc Type,Expense Line No,Expense Distrib Line,Expense Unpost Seq,Expense Sheet Operator ID,Expenses Operator Name,PC Business Unit,Project ID,Activity ID,Resource Type,Resource Category,Resource Sub Category,Line Description, Oprid, User Name,PO Line No, Quantity, Unit Price, BAN, sPro Contractor Name
+2022, 3,="FIN481Q21",JHERRMAN,="N",="FTX",31-MAR-2021,0,="003",="206021", , , , , ,="Reclass Foreign F48 Pymt",="Reclass Foreign F48 Pymt",2, ,P,         $139309.00,         $139309.00, , , , , , , , , , , , , , , , , , , , , , , , , , , ,, , , , , ,"","",
+2022,15,="PPAQ1_011",JHERRMAN,="N",="PPA",31-MAR-2021,0,="047",="206021", , , , , ,="Tax PPA Accrued Foreign TU",="Tax PPA Accrued Foreign TU",17, ,P,        $-466924.00,        $-466924.00, , , , , , , , , , , , , , , , , , , , , , , , , , , ,, , , , , ,"","",

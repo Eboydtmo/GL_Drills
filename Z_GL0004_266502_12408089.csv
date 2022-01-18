@@ -1,0 +1,9 @@
+Sprint Confidential and Privileged,,,,,,,,,PeopleSoft,,,,,,,Run Date:,27-DEC-2021
+,,,,,,,,Journal to Feeder System Drill Back,,,,,,,,Run Time:,13:31:32
+ReportID:,Z_GL0004
+
+Journal Date : ,="01-JAN-2021 to 31-DEC-2021"
+Ledger : ,ACTUALS
+Account : ,="266502"
+Fiscal Year,Accounting Period,Journal ID,Trans Ref Num,Reversal Code,Source,Journal Date,Unpost Sequence No.,Business Unit,Account,Region,Cost Center,Product,Segment,Affiliate,Journal Description,Journal Line Description,Journal Line No.,Journal Line Ref,Journal Status,Journal Amount,Amount From Source,Voucher ID,Voucher Line No.,Distrib Line No.,Invoice ID,Invoice Date,Ship Date,Shipto ID,Payment Type,Payment ID,Vendor ID,Vendor Name,PO ID,Item ID,Expense Type,Expense Doc ID,Expense Doc Type,Expense Line No,Expense Distrib Line,Expense Unpost Seq,Expense Sheet Operator ID,Expenses Operator Name,PC Business Unit,Project ID,Activity ID,Resource Type,Resource Category,Resource Sub Category,Line Description, Oprid, User Name,PO Line No, Quantity, Unit Price, BAN, sPro Contractor Name
+No GL Balances Found Matching Input Criteria                                    
